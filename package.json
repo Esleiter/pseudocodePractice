@@ -1,0 +1,14 @@
+{
+  "name": "algoritmo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Algoritmo.js",
+  "scripts": {
+    "start": "node Algoritmo.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
